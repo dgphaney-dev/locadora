@@ -1,0 +1,14 @@
+# Binarios compilados
+bin/
+*.class
+
+# Arquivos compactados de entrega
+*.zip
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
